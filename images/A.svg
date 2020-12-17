@@ -1,0 +1,21 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="602" width="802" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <ellipse ry="53" rx="62" id="svg_1" cy="302" cx="163" stroke-width="1.5" stroke="#000" fill="#7AD6CA"/>
+  <ellipse ry="53" rx="62" id="svg_2" cy="297" cx="353" stroke-width="1.5" stroke="#000" fill="#7AD6CA"/>
+  <ellipse ry="53" rx="62" id="svg_3" cy="294" cx="526" stroke-width="1.5" stroke="#000" fill="#7AD6CA"/>
+  <ellipse ry="53" rx="62" id="svg_4" cy="292" cx="692" stroke-width="1.5" stroke="#000" fill="#7AD6CA"/>
+  <text stroke="#000" transform="matrix(0.9781418634896966,0,0,1.8227865102445548,-33.539050282508924,-226.8380763804412) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_7" y="298" x="167" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">HTML</text>
+  <text stroke="#000" transform="matrix(1.040519118309021,0,0,1.8627450419407268,-13.290270805358887,-247.21567023034197) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_8" y="302" x="328" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">CSS</text>
+  <text stroke="#000" transform="matrix(1.176308512687683,0,0,1.6296296119689941,-87.6253308057785,-175.03703212738037) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_9" y="300" x="497" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">C++</text>
+  <text stroke="#000" transform="matrix(1.2855548858642578,0,0,1.7777777910232544,-189.89399909973145,-207.66667020320892) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_10" y="289" x="665" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">JS</text>
+ </g>
+</svg>
